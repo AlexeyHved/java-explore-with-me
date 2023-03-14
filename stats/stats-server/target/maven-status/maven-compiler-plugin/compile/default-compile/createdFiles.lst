@@ -1,0 +1,7 @@
+ru/practicum/stats/StatsApplication.class
+ru/practicum/stats/controller/StatController.class
+ru/practicum/stats/mapper/StatMapperImpl.class
+ru/practicum/stats/mapper/StatMapper.class
+ru/practicum/stats/service/StatService.class
+ru/practicum/stats/entity/StatEntity.class
+ru/practicum/stats/repository/StatRepository.class

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.3">
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/category/PublicCategoryController.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/event/AdminEventController.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/event/PrivateEventController.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/event/EventMapper.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/event/CriteriaEventRepository.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/event/EventService.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/event/EventRepository.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/participation/ParticipationRepository.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/participation/ParticipationService.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/compilation/AdminCompilationController.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/compilation/CompilationMapper.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/compilation/CompilationService.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/ratings/RatingRepository.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/ratings/UserRatingDto.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/src/main/java/ru/practicum/ewm/ratings/RatingService.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/target/generated-sources/annotations/ru/practicum/ewm/category/CategoryMapperImpl.java">
+</file>
+<file name="/home/alexey/dev/java-explore-with-me/ewm/target/generated-sources/annotations/ru/practicum/ewm/users/UserMapperImpl.java">
+</file>
+</checkstyle>

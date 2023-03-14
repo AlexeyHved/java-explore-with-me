@@ -1,0 +1,5 @@
+#Wed Feb 22 14:21:29 MSK 2023
+configuration*?=6AD24A7A4A2520CFBA2A724E4916BEDE953F731A
+module-resource*?\:suppressions.xml=B6C56B864127A55986A2D096B53D68E97E9F54B7
+/home/alexey/dev/java-explore-with-me/stats/dto/src/main/java/dto/ViewStats.java=1677052805198
+/home/alexey/dev/java-explore-with-me/stats/dto/src/main/java/dto/RequestStat.java=1677052805198

@@ -1,0 +1,4 @@
+dto/RequestStat.class
+dto/ViewStats.class
+dto/ViewStats$ViewStatsBuilder.class
+dto/RequestStat$RequestStatBuilder.class

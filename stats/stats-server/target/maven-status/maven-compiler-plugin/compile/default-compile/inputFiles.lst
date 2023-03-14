@@ -1,0 +1,6 @@
+/home/alexey/dev/java-explore-with-me/stats/stats-server/src/main/java/ru/practicum/stats/repository/StatRepository.java
+/home/alexey/dev/java-explore-with-me/stats/stats-server/src/main/java/ru/practicum/stats/entity/StatEntity.java
+/home/alexey/dev/java-explore-with-me/stats/stats-server/src/main/java/ru/practicum/stats/mapper/StatMapper.java
+/home/alexey/dev/java-explore-with-me/stats/stats-server/src/main/java/ru/practicum/stats/controller/StatController.java
+/home/alexey/dev/java-explore-with-me/stats/stats-server/src/main/java/ru/practicum/stats/service/StatService.java
+/home/alexey/dev/java-explore-with-me/stats/stats-server/src/main/java/ru/practicum/stats/StatsApplication.java
