@@ -3,4 +3,4 @@ Multi-module project where ewm-server is responsible for the main logic and stat
 Created with SpringBoot, Hibernate, Docker.
 ---
 Database [schema](https://github.com/AlexeyHved/java-explore-with-me/blob/main/ewm/src/main/resources/schema.sql)
-![](https://github.com/AlexeyHved/java-explore-with-me/blob/main/ewm-diagram.png)
+![ewm-server-diagram](https://github.com/AlexeyHved/java-explore-with-me/blob/main/ewm-server-diagram.png)
